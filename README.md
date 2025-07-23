@@ -4,7 +4,7 @@ Welcome to the Netflix Website Clone – a responsive, front-end replica of the 
 
 🚀 Live Demo:
 
-https://darshilpatel23.github.io/Netflix-Website-Clone/
+https://www.linkedin.com/in/darshil-patel-202b31322/recent-activity/all/
 
 📸 Preview:
 
